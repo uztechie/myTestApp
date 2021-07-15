@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatePicker</string>
+    <string name="device_not_found">device not found</string>
+    <string name="please_turn_on_bluetooth">Please turn on bluetooth to connect</string>
+</resources>
