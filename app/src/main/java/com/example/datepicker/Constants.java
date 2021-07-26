@@ -10,6 +10,7 @@ public interface Constants {
     public static final String IMAGE_URL = IP_ADDRESS + "/upload/uploadImage.do";
 
     public static final String PROJECTNAME = "DermoPico";
+    public static final String PROJECTNAME2 = "DermoPico";
 
     public static final String DATABASENAME = "picoskin.db";
 
